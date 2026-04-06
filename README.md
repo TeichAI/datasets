@@ -1,2 +1,1 @@
-# datasets
-This will be the repository for you to request for datasets to be created.
+Open an issue for datasets you want to be created and we will review it.
